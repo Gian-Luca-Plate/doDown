@@ -1,11 +1,11 @@
 <template>
- <home/> 
+  <login/>
 </template>
 
 <script>
-import Home from '@/components/Home.vue'
+import Login from '@/components/Login.vue'
 export default {
-  components: { Home },
+  components: { Login },
 
 }
 </script>
